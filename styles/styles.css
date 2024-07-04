@@ -22,4 +22,10 @@
 .header-right{
     text-align: right;
     justify-content: space-between;
+} 
+.back{
+    background-image: url(images\ \(2\).jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-repeat: repeat-y;
 }
