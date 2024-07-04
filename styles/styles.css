@@ -1,7 +1,24 @@
+.header{
+  color: white;
+  background-color: black;
+  
+  text-decoration: double;
+    
+}
 .link{
    height: 3cqw;
     color: antiquewhite;
     background-color: black;
-    text-align: right;
+    height: 25px;
+    padding: 5px;
     
+
+}
+.logo{
+    text-align: right;
+    position: relative
+}
+.header-right{
+    text-align: right;
+    justify-content: space-between;
 }
