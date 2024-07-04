@@ -24,8 +24,32 @@
     justify-content: space-between;
 } 
 .back{
-    background-image: url(images\ \(2\).jpeg);
+    background-image: url(IMG_E2513.JPG);
     background-repeat: no-repeat;
-    background-size: contain;
-    background-repeat: repeat-y;
+    background-size: cover;
+}
+.para{
+    border: 5px solid white;
+    padding: 10px;
+    
+}
+#head{
+    font-size: larger;
+    text-decoration: underline;
+    text-align: first;
+
+
+}
+.center{
+    font-size: x-large;
+    font-style: normal;
+    font-display: flex;
+    font-weight: 800;
+    text-align: center;
+    margin: 0;
+    text-align: justify;
+
+}
+#submit{
+    background-color: aliceblue;
 }
